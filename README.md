@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivanandaDC
-- 👀 I’m interested in Learning Data Science
+- 👀 I’m interested in Learning Machine Learning, Mechanical Engineering, DS
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Pandas
+- 💞️ I’m looking to collaborate on Pandas, scikit Learn
 - 📫 How to reach me ... Email_ID:- dcshivananda1@gmail.com
 
 <!---
